@@ -1,0 +1,1 @@
+Exercícios de POO feitos para a disciplina Programação em Computadores do curso de Tecnologias de Informação e Comunicação da Universidade Federal de Santa Catarina
