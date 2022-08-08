@@ -13,5 +13,3 @@ No caso do toString() da Mochila, ela deve, além de apresentar os objetos que e
 
 Saída Final:
 <img src="https://i.imgur.com/CHKdUfr.jpg"/>
-<br>
-<img src="https://i.imgur.com/1s4cbpq.png"/>
